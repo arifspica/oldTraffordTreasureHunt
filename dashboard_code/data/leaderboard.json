@@ -1,0 +1,25 @@
+{
+  "tweets": [
+    {
+      "user": "Al",
+      "score": "5"
+    },
+    {
+      "user": "A2",
+      "score": "2"
+    },
+    {
+      "user": "A3",
+      "score": "4"
+    },
+    {
+      "user": "B1",
+      "score": "3"
+    },
+    {
+      "user": "B2",
+      "score": "1"
+    }
+  ]
+}
+
