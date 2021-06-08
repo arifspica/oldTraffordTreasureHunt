@@ -8,7 +8,7 @@ idna==2.5
 Markdown==2.6.8
 numpy==1.13.1
 olefile==0.44
-Pillow==6.2.0
+Pillow==8.2.0
 pytz==2017.2
 requests==2.18.1
 urllib3==1.21.1
