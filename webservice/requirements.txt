@@ -6,7 +6,7 @@ django-filter==1.0.4
 djangorestframework==3.6.3
 idna==2.5
 Markdown==2.6.8
-numpy==1.13.1
+numpy==1.21.0
 olefile==0.44
 Pillow==6.2.0
 pytz==2017.2
